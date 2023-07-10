@@ -1,3 +1,3 @@
 module.exports = {
-    secretKey : "atharv shelgaonkar"
+    secretKey : "this is a secret"
 }
